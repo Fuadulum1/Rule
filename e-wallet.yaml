@@ -26,3 +26,25 @@ payload:
   - DOMAIN-KEYWORD,flip.id
   - DOMAIN-KEYWORD,nexus-websocket-a.intercom.io
   - DOMAIN-KEYWORD,mobile-sdk-api.intercom.io
+  # Go-Pay [Go-Jek]
+  - DOMAIN-KEYWORD,gopay-topup
+
+  # Doku
+  - DOMAIN-SUFFIX,dokuwallet.com
+  # Dana
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-SUFFIX,split.io
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,innov8.id
+  - DOMAIN,danaindonesia.app.link
+  - DOMAIN,events.split.io
+  - DOMAIN,sdk.split.io
+  - DOMAIN,auth.split.io
+  - DOMAIN,cdn.branch.io
+  - DOMAIN,streaming.split.io
+  - DOMAIN,api2.branch.io
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-KEYWORD,-ac.alipay.com
+  - DOMAIN-KEYWORD,-sea.alipay.com
+  - DOMAIN-KEYWORD,gw-dana.ebuckler
+  - DOMAIN-KEYWORD,dana.threatcast
