@@ -1,0 +1,28 @@
+payload:
+# E-Wallet
+  - DOMAIN-SUFFIX,gojek.com
+  - DOMAIN-SUFFIX,gobiz.co.id
+  - DOMAIN-SUFFIX,ovo.id
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,linkaja.id
+  - DOMAIN-SUFFIX,octoclicks.co.id
+  - DOMAIN-SUFFIX,1-saku.com
+  - DOMAIN-SUFFIX,doku.com
+  - DOMAIN-SUFFIX,shopeepay.co.id
+  - DOMAIN-SUFFIX,grab.com
+  - DOMAIN-SUFFIX,grabtaxi.com
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,gobiz
+  - DOMAIN-KEYWORD,ovo
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-KEYWORD,linkaja
+  - DOMAIN-KEYWORD,octoclicks
+  - DOMAIN-KEYWORD,1-saku
+  - DOMAIN-KEYWORD,doku
+  - DOMAIN-KEYWORD,shopeepay
+  - DOMAIN-KEYWORD,grab
+  - DOMAIN-KEYWORD,grabtaxi
+  # Flip
+  - DOMAIN-KEYWORD,flip.id
+  - DOMAIN-KEYWORD,nexus-websocket-a.intercom.io
+  - DOMAIN-KEYWORD,mobile-sdk-api.intercom.io
