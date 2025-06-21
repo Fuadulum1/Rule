@@ -445,6 +445,7 @@ payload:
   - IP-CIDR,143.92.82.0/24
   - IP-CIDR,154.94.83.155/32
   - IP-CIDR,103.189.121.154/24
+  - IP-CIDR,202.181.90.0/24
   
   # Shopee mall, rincian pesanan
   - DOMAIN-KEYWORD,mall.shopee
