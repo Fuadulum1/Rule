@@ -351,7 +351,6 @@ payload:
   - IP-CIDR,138.113.0.0/16
   - IP-CIDR,103.189.0.0/16
   - IP-CIDR,156.251.0.0/16
-  - IP-CIDR,154.223.0.0/16
   
   # Shopee Gambar produk live
   - DOMAIN-SUFFIX,susercontent.com
