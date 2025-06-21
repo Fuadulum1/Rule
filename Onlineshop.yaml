@@ -341,10 +341,10 @@ payload:
   - DOMAIN-SUFFIX,cv.shopee.co.id
   - DOMAIN-SUFFIX,cf.shopee.sg
   - DOMAIN-SUFFIX,seller.shopee.sg
+  - IP-CIDR,147.136.0.0/16
   #- IP-CIDR,147.136.140.126/24
   #- IP-CIDR,202.181.90.156/24
   #- IP-CIDR,149.154.0.0/16
-  #- IP-CIDR,147.136.0.0/16
   #- IP-CIDR,47.241.0.0/16
   #- IP-CIDR,147.0.0.0/16
   #- IP-CIDR,47.0.0.0/16
