@@ -316,6 +316,8 @@ payload:
   - IP-CIDR,18.67.0.0/16
   - IP-CIDR,142.251.0.0/16
   - IP-CIDR,162.247.0.0/16
+  - IP-CIDR,43.173.0.0/16
+  - IP-CIDR,35.241.0.0/16
   
   # Shopee
   - DOMAIN-KEYWORD,shopee
