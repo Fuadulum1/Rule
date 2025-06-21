@@ -108,3 +108,4 @@ payload:
   - DOMAIN-SUFFIX,ttlivecdn.com.c.worldfcdn.com
   - DOMAIN-SUFFIX,ttoversea.net
   - IP-CIDR,154.223.0.0/16
+  - IP-CIDR,123.176.125.5/32
