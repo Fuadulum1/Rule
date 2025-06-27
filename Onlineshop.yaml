@@ -302,6 +302,7 @@ payload:
   - DOMAIN-SUFFIX,video.tokopedia.com
   - DOMAIN-SUFFIX,stream.tokopedia.com
   - DOMAIN-SUFFIX,cdn2.tokopedia.com
+  - DOMAIN-SUFFIX,tokopediax.com
   - IP-CIDR,57.144.192.0/23
   - IP-CIDR,202.65.112.0/20
   - IP-CIDR,157.144.0.0/16
