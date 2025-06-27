@@ -372,6 +372,7 @@ payload:
   - DOMAIN-SUFFIX,image.susercontent.com
   - DOMAIN-SUFFIX,cdn.susercontent.com
   - DOMAIN-SUFFIX,gcdn.susercontent.com
+  - DOMAIN-SUFFIX,vod.susercontent.com
   - DOMAIN-SUFFIX,shopeeimg.com
   - DOMAIN-KEYWORD,shopeeimg
   - DOMAIN-KEYWORD,wss-live-shopee
