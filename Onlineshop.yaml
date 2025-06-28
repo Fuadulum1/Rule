@@ -201,9 +201,7 @@ payload:
   - DOMAIN-SUFFIX,g.alicdn.com
   - DOMAIN-SUFFIX,t.alicdn.com
   - DOMAIN-SUFFIX,irisk-id-l.alipay.com
-  - DOMAIN-SUFFIX,edgecasecdn.net
   - DOMAIN-SUFFIX,cdn77.org
-  - DOMAIN-SUFFIX,bayuanhulian.com
   - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,lazpay-fe-kyc-module-file.oss-ap-southeast-1.aliyuncs.com
   - DOMAIN-SUFFIX,ynuf.aliapp.org
@@ -211,7 +209,6 @@ payload:
   - DOMAIN-SUFFIX,imgs-id.alipay.com
   - DOMAIN-SUFFIX,vulcan3.branch.io
   - DOMAIN-SUFFIX,litemsg.ekatox.com
-  - DOMAIN-KEYWORD,cdn
   - DOMAIN-KEYWORD,live-play
   - DOMAIN-KEYWORD,live-lazada
   - DOMAIN-KEYWORD,video-lazada
@@ -247,7 +244,6 @@ payload:
   - DOMAIN-SUFFIX,m.tokopedia.com
   - DOMAIN-SUFFIX,accounts.tokopedia.com
   - DOMAIN-SUFFIX,ace.tokopedia.com
-  - DOMAIN-SUFFIX,akamai-test.tokopedia.com
   - DOMAIN-SUFFIX,api.tokopedia.com
   - DOMAIN-SUFFIX,booking.tokopedia.com
   - DOMAIN-SUFFIX,chat.tokopedia.com
@@ -312,6 +308,7 @@ payload:
   - IP-CIDR,162.247.0.0/16
   - IP-CIDR,43.173.0.0/16
   - IP-CIDR,35.241.0.0/16
+  - IP-CIDR,23.215.0.0/16
   
   # Shopee
   - DOMAIN-KEYWORD,shopee
@@ -336,7 +333,6 @@ payload:
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,cf.shopee.co.id
   - DOMAIN-SUFFIX,img.ws.mms.shopee.co.id
-  - DOMAIN-SUFFIX,shopeeszlive.akamaized.net
   - DOMAIN-SUFFIX,live-shopee.shopee.co.id
   - DOMAIN-SUFFIX,cdn.shopee.co.id
   - DOMAIN-SUFFIX,deo.shopeemobile.com
