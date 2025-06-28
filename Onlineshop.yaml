@@ -201,8 +201,6 @@ payload:
   - DOMAIN-SUFFIX,g.alicdn.com
   - DOMAIN-SUFFIX,t.alicdn.com
   - DOMAIN-SUFFIX,irisk-id-l.alipay.com
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,edgecasecdn.net
   - DOMAIN-SUFFIX,cdn77.org
   - DOMAIN-SUFFIX,bayuanhulian.com
