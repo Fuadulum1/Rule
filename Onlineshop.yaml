@@ -132,7 +132,6 @@ payload:
   - DOMAIN-SUFFIX,bbm-service.bukalapak.com
   - DOMAIN-SUFFIX,d-bbm-service-9spk2n.bukalapak.com
   - DOMAIN-SUFFIX,62c2238b-2.connect.preproduction.bukalapak.com
-  
   # LAZADA
   - DOMAIN-SUFFIX,lazada.co.id
   - DOMAIN-SUFFIX,slatic.net
@@ -228,7 +227,6 @@ payload:
   - IP-CIDR,156.59.0.0/16
   - IP-CIDR,47.246.0.0/16
   - IP-CIDR,157.185.0.0/16
-  
   # TOKOPEDIA
   - DOMAIN-SUFFIX,tokopedia.com
   - DOMAIN-SUFFIX,www.tokopedia.com
@@ -309,7 +307,6 @@ payload:
   - IP-CIDR,43.173.0.0/16
   - IP-CIDR,35.241.0.0/16
   - IP-CIDR,23.215.0.0/16
-  
   # Shopee
   - DOMAIN-KEYWORD,shopee
   - DOMAIN-SUFFIX,shopee.com
@@ -346,16 +343,6 @@ payload:
   - DOMAIN-SUFFIX,seller.shopee.sg
   - IP-CIDR,147.136.0.0/16
   - IP-CIDR,147.136.140.126/24
-  #- IP-CIDR,202.181.90.156/24
-  #- IP-CIDR,149.154.0.0/16
-  #- IP-CIDR,47.241.0.0/16
-  #- IP-CIDR,147.0.0.0/16
-  #- IP-CIDR,47.0.0.0/16
-  #- IP-CIDR,138.113.0.0/16
-  #- IP-CIDR,103.189.0.0/16
-  #- IP-CIDR,156.251.0.0/16
-  
-  # Shopee Gambar produk live
   - DOMAIN-SUFFIX,susercontent.com
   - DOMAIN-KEYWORD,susercontent
   - DOMAIN-SUFFIX,down-sg.img.susercontent.com
@@ -450,16 +437,13 @@ payload:
   - IP-CIDR,154.94.83.155/32
   - IP-CIDR,103.189.121.154/24
   - IP-CIDR,202.181.90.0/24
-  
   # Shopee mall, rincian pesanan
   - DOMAIN-KEYWORD,mall.shopee
   - DOMAIN-SUFFIX,mms.shopee.co.id
   - DOMAIN-SUFFIX,chatbot.shopee.co.id
   - DOMAIN-SUFFIX,uss.ms.shopee.co.id
-  
   # Rule screenshot bukti barang sampai
   - DOMAIN-KEYWORD,electronicproof.ssc.shopee
-  
   # Shopee LIVE
   - DOMAIN-KEYWORD,livestream.shopee
   - DOMAIN-KEYWORD,live.shopee
@@ -470,43 +454,21 @@ payload:
   - DOMAIN,sg.pool.ntp.org
   - DOMAIN,id.pool.ntp.org
   - DOMAIN,cn.pool.ntp.org
-  #- IP-CIDR,202.179.138.114/24
-  #- IP-CIDR,128.1.61.66/24
-  #- IP-CIDR,150.109.91.8/24
-  #- IP-CIDR,36.66.3.172/24
-  #- IP-CIDR,138.113.116.5/24
-  #- IP-CIDR,36.66.223.235/24
-  #- IP-CIDR,150.109.91.7/24
-  #- IP-CIDR,117.103.116.29/24
-  #- DST-PORT,61947
-  #- DST-PORT,64355
-  #- DST-PORT,61948
-  #- DST-PORT,61947
-  #- DST-PORT,61947
-  #- DST-PORT,61947
-  #- DST-PORT,61947
-  #- DST-PORT,61947
-
   # ShopeePay
   - DOMAIN-KEYWORD,wallet.airpay
   - DOMAIN-KEYWORD,gw.airpay
-
   # Shopee Login Reward
   - DOMAIN-KEYWORD,games.shopee
   - DOMAIN-KEYWORD,play.shopee
-  
   # ShopeeFood
   - DOMAIN-KEYWORD,foody.shopee
-  
   # Rule nilai produk
   - DOMAIN-KEYWORD,rating.shopee
-  
   # Shopee login, logout and checkout
   - DOMAIN-KEYWORD,api.shopee
   - DOMAIN-KEYWORD,c-api-bit.shopeemobile
   - DOMAIN-KEYWORD,cf.shopee
   - DOMAIN-KEYWORD,frd.shope
-  
   # MARKETPLACE
   - DOMAIN-SUFFIX,blibli.com
   - DOMAIN-SUFFIX,orami.co.id
