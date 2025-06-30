@@ -28,7 +28,6 @@ payload:
   - DOMAIN-KEYWORD,mobile-sdk-api.intercom.io
   # Go-Pay [Go-Jek]
   - DOMAIN-KEYWORD,gopay-topup
-
   # Doku
   - DOMAIN-SUFFIX,dokuwallet.com
   # Dana
