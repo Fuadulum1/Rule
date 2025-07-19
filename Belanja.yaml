@@ -1,108 +1,167 @@
 payload:
-- "+.bri.co.id"
-- "+.bankmandiri.co.id"
-- "+.bni.co.id"
-- "+.btn.co.id"
-- "+.danamon.co.id"
-- "+.permatabank.com"
-- "+.bca.co.id"
-- "+.maybank.co.id"
-- "+.panin.co.id"
-- "+.cimbniaga.com"
-- "+.uob.co.id"
-- "+.ocbcnisp.com"
-- "+.arthagraha.com"
-- "+.bankbba.co.id"
-- "+.hsbc.co.id"
-- "+.jtrustbank.co.id"
-- "+.bankmayapada.com"
-- "+.boiindonesia.co.id"
-- "+.muamalatbank.com"
-- "+.bankmestika.co.id"
-- "+.shinhan.co.id"
-- "+.banksinarmas.co.id"
-- "+.bankmaspion.co.id"
-- "+.bankganesha.co.id"
-- "+.icbcindo.com"
-- "+.qnb.co.id"
-- "+.banksaudara.com"
-- "+.bankmega.com"
-- "+.bankbsi.co.id"
-- "+.bukopin.co.id"
-- "+.hanabank.co.id"
-- "+.mncbank.co.id"
-- "+.bankraya.co.id"
-- "+.sbiindo.com"
-- "+.megasyariah.co.id"
-- "+.bankindex.co.id"
-- "+.bankmayora.com"
-- "+.ccb.com"
-- "+.dbs.com"
-- "+.perdania.co.id"
-- "+.mizuhocbk.co.id"
-- "+.bankcapital.co.id"
-- "+.bnpparibas.co.id"
-- "+.anz.com"
-- "+.bankagris.co.id"
-- "+.aladinbank.id"
-- "+.chinatrust.co.id"
-- "+.commbank.co.id"
-- "+.btpn.com"
-- "+.bankvictoriasyariah.co.id"
-- "+.bjbsyariah.co.id"
-- "+.bankbisnis.com"
-- "+.bjj.co.id"
-- "+.bankneocommerce.co.id"
-- "+.bcadigital.co.id"
-- "+.nobubank.com"
-- "+.bankina.co.id"
-- "+.paninbanksyariah.co.id"
-- "+.primamasterbank.co.id"
-- "+.syariahbukopin.co.id"
-- "+.banksampoerna.com"
-- "+.bankdinar.co.id"
-- "+.amarbank.co.id"
-- "+.bankkesejahteraan.co.id"
-- "+.bcasyariah.co.id"
-- "+.jago.com"
-- "+.seabank.co.id"
-- "+.btpnsyariah.com"
-- "+.bankmas.co.id"
-- "+.superbank.id"
-- "+.bankmantap.co.id"
-- "+.victoriabank.co.id"
-- "+.allobank.com"
-- "+.bankjabar.co.id"
-- "+.bankdki.co.id"
-- "+.bpddiy.co.id"
-- "+.bankjateng.co.id"
-- "+.bankjatim.co.id"
-- "+.bankjambi.co.id"
-- "+.bankaceh.co.id"
-- "+.banksumut.com"
-- "+.banknagari.co.id"
-- "+.brksyariah.co.id"
-- "+.banksumselbabel.com"
-- "+.banklampung.co.id"
-- "+.bankbpdkalsel.co.id"
-- "+.bankkalbar.co.id"
-- "+.bankkaltim.com"
-- "+.bp-kalteng.com"
-- "+.banksulsel.co.id"
-- "+.banksulutgo.co.id"
-- "+.bankntb.co.id"
-- "+.bpdbali.co.id"
-- "+.bpdntt.co.id"
-- "+.bankmaluku.co.id"
-- "+.bankpapua.com"
-- "+.bankbengkulu.co.id"
-- "+.sulteng.go.id"
-- "+.banksultra.co.id"
-- "+.bankbanten.co.id"
-- "+.citibank.co.id"
-- "+.jpmorganchase.com"
-- "+.bankofamerica.com"
-- "+.mufg.co.id"
-- "+.standardchartered.com"
-- "+.deutsche-bank.co.id"
-- "+.bankofchina.co.id"
+  # Shopee
+  - DOMAIN-KEYWORD,shopee
+  - DOMAIN-SUFFIX,shopee.com
+  - DOMAIN-SUFFIX,shopee.com.br
+  - DOMAIN-SUFFIX,shopee.com.my
+  - DOMAIN-SUFFIX,shopee.ph
+  - DOMAIN-SUFFIX,shopee.sg
+  - DOMAIN-SUFFIX,shopee.tw
+  - DOMAIN-SUFFIX,shopee.vn
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,shopee.io
+  - DOMAIN-SUFFIX,shopeeapis.com
+  - DOMAIN-SUFFIX,shopeeimg.com
+  - DOMAIN-SUFFIX,cdnshopee.com
+  - DOMAIN-SUFFIX,streamshops.com
+  - DOMAIN-SUFFIX,shopeelive.com
+  - DOMAIN-SUFFIX,shp.ee
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,cf.shopee.co.id
+  - DOMAIN-SUFFIX,img.ws.mms.shopee.co.id
+  - DOMAIN-SUFFIX,live-shopee.shopee.co.id
+  - DOMAIN-SUFFIX,cdn.shopee.co.id
+  - DOMAIN-SUFFIX,deo.shopeemobile.com
+  - DOMAIN-SUFFIX,static-live.shopee.co.id
+  - DOMAIN-SUFFIX,live.shopee.co.id
+  - DOMAIN-SUFFIX,live-profile.shopee.co.id
+  - DOMAIN-SUFFIX,adaggreg-ali.shalltry.com
+  - DOMAIN-SUFFIX,cv.shopee.co.id
+  - DOMAIN-SUFFIX,cf.shopee.sg
+  - DOMAIN-SUFFIX,seller.shopee.sg
+  - IP-CIDR,147.136.0.0/16
+  - DOMAIN-SUFFIX,susercontent.com
+  - DOMAIN-KEYWORD,susercontent
+  - DOMAIN-SUFFIX,down-sg.img.susercontent.com
+  - DOMAIN-SUFFIX,down-ws-id.img.susercontent.com
+  - DOMAIN-SUFFIX,down-id.img.susercontent.com
+  - DOMAIN-SUFFIX,down-ws-sg.img.susercontent.com
+  - DOMAIN-SUFFIX,image.susercontent.com
+  - DOMAIN-SUFFIX,cdn.susercontent.com
+  - DOMAIN-SUFFIX,gcdn.susercontent.com
+  - DOMAIN-SUFFIX,vod.susercontent.com
+  - DOMAIN-SUFFIX,shopeeimg.com
+  - DOMAIN-KEYWORD,shopeeimg
+  - DOMAIN-KEYWORD,wss-live-shopee
+  - DOMAIN-SUFFIX,livestream-api.shopee.co.id
+  - DOMAIN-KEYWORD,livetech
+  - DOMAIN-KEYWORD,stats.shopee
+  - DOMAIN-SUFFIX,stats.shopee.co.id
+  - DOMAIN-KEYWORD,livestream
+  - DOMAIN-KEYWORD,chatroom-live
+  - DOMAIN-KEYWORD,live-profile
+  - DOMAIN-SUFFIX,livestream-api.shopee.co.id
+  - DOMAIN-KEYWORD,wss-live-shopee
+  - DOMAIN-SUFFIX,profile.shopee.sg
+  - DOMAIN-SUFFIX,profile.shopee.co.id
+  - DOMAIN-SUFFIX,play-shopee.shopee.co.id
+  - DOMAIN-SUFFIX,livestream-web.shopee.co.id
+  - DOMAIN-SUFFIX,img.ws.shopee.co.id
+  - DOMAIN-SUFFIX,deo.shopeemobile.com
+  - DOMAIN-SUFFIX,vn-live-play.shopee.co.id
+  - DOMAIN-SUFFIX,api-live.shopee.co.id
+  - DOMAIN-SUFFIX,live-info.shopee.co.id
+  - DOMAIN-SUFFIX,img.shopee.co.id
+  - DOMAIN-SUFFIX,profile.shopee.sg
+  - DOMAIN-SUFFIX,img-global.cdn.shopee.com
+  - DOMAIN-SUFFIX,avatar-live.shopee.co.id
+  - DOMAIN-SUFFIX,live-avatar.shopee.sg
+  - DOMAIN-SUFFIX,profile-images.shopee.co.id
+  - DOMAIN-SUFFIX,cdn-profile.shopee.sg
+  - DOMAIN-SUFFIX,live-profile-cdn.shopee.co.id
+  - DOMAIN-SUFFIX,cdn-live.shopee.com
+  - DOMAIN-SUFFIX,msdk.shopee.co.id
+  - DOMAIN-SUFFIX,seller.shopee.co.id
+  - DOMAIN-SUFFIX,ug-api.sv.shopee.co.id
+  - DOMAIN-SUFFIX,apm.tracking.shopee.co.id
+  - DOMAIN-SUFFIX,tracking.shopee.co.id
+  - DOMAIN-SUFFIX,livetech.shopee.co.id
+  - DOMAIN-SUFFIX,img.susercontent.com
+  - DOMAIN-SUFFIX,gdrive.shopee.co.id
+  - DOMAIN-SUFFIX,video.shopee.co.id
+  - DOMAIN-SUFFIX,vdc-sg.shopee.com
+  - DOMAIN-SUFFIX,sg-live-cdn.shopee.com
+  - DOMAIN-SUFFIX,bs-id.susercontent.com
+  - DOMAIN-SUFFIX,cvs-id.susercontent.com
+  - DOMAIN-SUFFIX,tx-id.susercontent.com
+  - DOMAIN-SUFFIXzl-id.susercontent.com
+  - DOMAIN-SUFFIX,down-id.susercontent.com
+  - DOMAIN-SUFFIX,sg-id.susercontent.com
+  - DOMAIN-SUFFIX,live-id.susercontent.com
+  - DOMAIN-SUFFIX,ph-id.susercontent.com
+  - DOMAIN-SUFFIX,vn-id.susercontent.com
+  - DOMAIN-SUFFIX,th-id.susercontent.com
+  - DOMAIN-SUFFIX,shopee-live.scontent.id
+  - DOMAIN-SUFFIX,shopee-cdn.com
+  - DOMAIN-SUFFIX,live-profile-id.susercontent.com
+  - DOMAIN-SUFFIX,image-id.susercontent.com
+  - DOMAIN-SUFFIX,video-live.shopee.co.id
+  - DOMAIN-SUFFIX,wsa-sentry.shopeemobile.com
+  - DOMAIN-SUFFIX,external2.shopee.co.id
+  - DOMAIN-SUFFIX,games.shopee.co.id
+  - DOMAIN-SUFFIX,data-rep.livetech.shopee.co.id
+  - DOMAIN-SUFFIX,log-collector.shopee.co.id
+  - DOMAIN-SUFFIX,play-tx.vod.shopee.com
+  - DOMAIN-SUFFIX,feeds.shopee.co.id
+  - DOMAIN-SUFFIX,df.infra.sz.shopee.co.id
+  - DOMAIN-SUFFIX,play-ws.vod.shopee.com
+  - DOMAIN-SUFFIX,seller-app.shopee.co.id
+  - DOMAIN-SUFFIX,play-tx.livestream.shopee.co.id
+  - DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
+  - DOMAIN-SUFFIX,af.shalltry.com
+  - DOMAIN-KEYWORD,scontent
+  - DOMAIN,shopee.co.id
+  - DOMAIN,susercontent.com
+  - DOMAIN,shopeeimg.com
+  - IP-CIDR,143.92.85.0/24
+  - IP-CIDR,143.92.75.0/24
+  - IP-CIDR,143.92.88.0/24
+  - IP-CIDR,143.92.73.0/24
+  - IP-CIDR,143.92.82.0/24
+  - IP-CIDR,154.94.83.155/32
+  - IP-CIDR,103.189.121.154/24
+  - IP-CIDR,202.181.90.0/24
+  # Shopee mall, rincian pesanan
+  - DOMAIN-KEYWORD,mall.shopee
+  - DOMAIN-SUFFIX,mms.shopee.co.id
+  - DOMAIN-SUFFIX,chatbot.shopee.co.id
+  - DOMAIN-SUFFIX,uss.ms.shopee.co.id
+  # Rule screenshot bukti barang sampai
+  - DOMAIN-KEYWORD,electronicproof.ssc.shopee
+  # Shopee LIVE
+  - DOMAIN-KEYWORD,livestream.shopee
+  - DOMAIN-KEYWORD,live.shopee
+  - DOMAIN-KEYWORD,livetech.shopee
+  - DOMAIN-KEYWORD,chatroom-live.shopee
+  - DOMAIN-KEYWORD,live-cdn
+  - DOMAIN-KEYWORD,profile
+  - DOMAIN,sg.pool.ntp.org
+  - DOMAIN,id.pool.ntp.org
+  - DOMAIN,cn.pool.ntp.org
+  # ShopeePay
+  - DOMAIN-KEYWORD,wallet.airpay
+  - DOMAIN-KEYWORD,gw.airpay
+  # Shopee Login Reward
+  - DOMAIN-KEYWORD,games.shopee
+  - DOMAIN-KEYWORD,play.shopee
+  # ShopeeFood
+  - DOMAIN-KEYWORD,foody.shopee
+  # Rule nilai produk
+  - DOMAIN-KEYWORD,rating.shopee
+  # Shopee login, logout and checkout
+  - DOMAIN-KEYWORD,api.shopee
+  - DOMAIN-KEYWORD,c-api-bit.shopeemobile
+  - DOMAIN-KEYWORD,cf.shopee
+  - DOMAIN-KEYWORD,frd.shope
+  # MARKETPLACE
+  - DOMAIN-SUFFIX,blibli.com
+  - DOMAIN-SUFFIX,orami.co.id
+  - DOMAIN-SUFFIX,ralali.com
+  - DOMAIN-SUFFIX,bhinneka.com
+  - DOMAIN-SUFFIX,jd.id
+  - DOMAIN-SUFFIX,zalora.co.id
+  - DOMAIN-KEYWORD,blibli
+  - DOMAIN-KEYWORD,orami
+  - DOMAIN-KEYWORD,ralali
+  - DOMAIN-KEYWORD,bhinneka
+  - DOMAIN-KEYWORD,zalora
