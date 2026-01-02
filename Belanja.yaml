@@ -2,44 +2,32 @@ payload:
   # === SHOPEE CORE ===
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopee.com
-  - DOMAIN-SUFFIX,shopeemobile.com
-  - DOMAIN-SUFFIX,shopeeapis.com
-  - DOMAIN-SUFFIX,shp.ee
   - DOMAIN-SUFFIX,shopee.io
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,shp.ee
+
+  # === API ===
+  - DOMAIN-KEYWORD,api.shopee
 
   # === IMAGE & CDN ===
   - DOMAIN-SUFFIX,susercontent.com
-  - DOMAIN-SUFFIX,img.susercontent.com
-  - DOMAIN-SUFFIX,cdn.susercontent.com
-  - DOMAIN-SUFFIX,gcdn.susercontent.com
-  - DOMAIN-SUFFIX,static.susercontent.com
-  - DOMAIN-SUFFIX,media.susercontent.com
 
   # === LIVE & STREAMING ===
   - DOMAIN-SUFFIX,livestream-api.shopee.co.id
   - DOMAIN-SUFFIX,live.shopee.co.id
-  - DOMAIN-SUFFIX,live-profile.shopee.co.id
-  - DOMAIN-SUFFIX,live-avatar.shopee.sg
   - DOMAIN-SUFFIX,video-live.shopee.co.id
   - DOMAIN-SUFFIX,play-ws.vod.shopee.com
   - DOMAIN-SUFFIX,play-tx.vod.shopee.com
-  - DOMAIN-SUFFIX,ws-live.shopee.co.id
-  - DOMAIN-SUFFIX,live-ws.shopee.co.id
 
-  # === SEA / GARENA CONTENT (UNTUK SHOPEE) ===
-  - DOMAIN-SUFFIX,garena.com
-  - DOMAIN-SUFFIX,garena.sg
+  # === CHAT ===
+  - DOMAIN-SUFFIX,chatroom-live.shopee.co.id
+  - DOMAIN-SUFFIX,im.shopee.co.id
+  - DOMAIN-SUFFIX,im.shopeemobile.com
+
+  # === SEA / GARENA CDN (ONLY CONTENT) ===
   - DOMAIN-SUFFIX,content.garena.com
   - DOMAIN-SUFFIX,cdn.garena.com
   - DOMAIN-SUFFIX,media.garena.com
 
-  # === CHAT & INTERAKSI ===
-  - DOMAIN-SUFFIX,chatroom-live.shopee.co.id
-  - DOMAIN-SUFFIX,chat-live.shopee.co.id
-  - DOMAIN-SUFFIX,im.shopee.co.id
-  - DOMAIN-SUFFIX,im.shopeemobile.com
-
-  # === PAYMENT & LOGIN ===
+  # === PAYMENT ===
   - DOMAIN-KEYWORD,airpay
-  - DOMAIN-KEYWORD,wallet.airpay
-  - DOMAIN-KEYWORD,api.shopee
