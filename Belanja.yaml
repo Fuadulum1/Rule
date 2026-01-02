@@ -27,6 +27,13 @@ payload:
   - DOMAIN-SUFFIX,ws-live.shopee.co.id
   - DOMAIN-SUFFIX,live-ws.shopee.co.id
 
+  # === SEA / GARENA CONTENT (UNTUK SHOPEE) ===
+  - DOMAIN-SUFFIX,garena.com
+  - DOMAIN-SUFFIX,garena.sg
+  - DOMAIN-SUFFIX,content.garena.com
+  - DOMAIN-SUFFIX,cdn.garena.com
+  - DOMAIN-SUFFIX,media.garena.com
+
   # === CHAT & INTERAKSI ===
   - DOMAIN-SUFFIX,chatroom-live.shopee.co.id
   - DOMAIN-SUFFIX,chat-live.shopee.co.id
