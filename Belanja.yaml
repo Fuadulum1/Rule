@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,shopeeimg.com
   - DOMAIN-SUFFIX,cdnshopee.com
   - DOMAIN-SUFFIX,shp.ee
+  - DOMAIN-SUFFIX,shopee.io
 
   # === IMAGE & CDN ===
   - DOMAIN-SUFFIX,susercontent.com
