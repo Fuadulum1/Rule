@@ -2,6 +2,7 @@ payload:
   # === SHOPEE CORE ===
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopee.com
+  - DOMAIN-SUFFIX,shopee.sg
   - DOMAIN-SUFFIX,shopee.io
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,shp.ee
@@ -24,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,im.shopee.co.id
   - DOMAIN-SUFFIX,im.shopeemobile.com
 
-  # === SEA / GARENA CDN (ONLY CONTENT) ===
+  # === SEA / GARENA CDN (CONTENT ONLY) ===
   - DOMAIN-SUFFIX,content.garena.com
   - DOMAIN-SUFFIX,cdn.garena.com
   - DOMAIN-SUFFIX,media.garena.com
