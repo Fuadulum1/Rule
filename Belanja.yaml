@@ -1,6 +1,5 @@
-
 payload:
-  # === SHOPEE CORE (ROOT) ===
+  # === SHOPEE CORE ===
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopee.com
   - DOMAIN-SUFFIX,shopee.sg
@@ -8,15 +7,11 @@ payload:
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,shp.ee
 
-  # === API GLOBAL ===
+  # === API (DYNAMIC & GLOBAL) ===
   - DOMAIN-KEYWORD,api.shopee
 
-  # === IMAGE & CDN ===
+  # === IMAGE & LIVE CDN (WAJIB) ===
   - DOMAIN-SUFFIX,susercontent.com
-
-  # === VIDEO (VOD ONLY, DI LUAR .co.id) ===
-  - DOMAIN-SUFFIX,play-ws.vod.shopee.com
-  - DOMAIN-SUFFIX,play-tx.vod.shopee.com
 
   # === SEA / GARENA CDN (CONTENT ONLY) ===
   - DOMAIN-SUFFIX,content.garena.com
