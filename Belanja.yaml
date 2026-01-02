@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,shopee.com
   - DOMAIN-SUFFIX,shopeemobile.com
   - DOMAIN-SUFFIX,shopeeapis.com
-  - DOMAIN-SUFFIX,shopeeimg.com
-  - DOMAIN-SUFFIX,cdnshopee.com
   - DOMAIN-SUFFIX,shp.ee
   - DOMAIN-SUFFIX,shopee.io
 
