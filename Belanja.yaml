@@ -3,16 +3,15 @@ payload:
   - DOMAIN-KEYWORD,shopee
 
   # === IMAGE & LIVE CDN (WAJIB) ===
-  - DOMAIN-SUFFIX,susercontent.com
+  - DOMAIN-KEYWORD,susercontent
 
   # === SEA / GARENA CDN (CONTENT ONLY) ===
   - DOMAIN-SUFFIX,content.garena.com
   - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
-  - DOMAIN-SUFFIX,media.garena.com
 
   # === PAYMENT ===
   - DOMAIN-KEYWORD,airpay
-  - DOMAIN-SUFFIX,shopeepay.co.id
+  - DOMAIN-KEYWORD,shopeepay
 
   # === IP-Range Shopee ===
   - IP-CIDR,45.196.20.16/32
