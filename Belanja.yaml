@@ -21,7 +21,11 @@ payload:
   # === PAYMENT ===
   - DOMAIN-KEYWORD,airpay
 
-  # IP-Range Shopee
+  # === IP-Range Shopee ===
   - IP-CIDR,45.196.20.16/32
   - IP-CIDR,45.196.20.20/32
   - IP-CIDR,45.196.20.22/32
+  - IP-CIDR,47.241.30.51/32
+  - IP-CIDR,148.153.241.22/32
+  - IP-CIDR,154.223.41.56/32
+  - IP-CIDR,91.108.56.192/32
