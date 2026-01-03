@@ -24,3 +24,4 @@ payload:
   # IP-Range Shopee
   - IP-CIDR,45.196.20.16/32
   - IP-CIDR,45.196.20.20/32
+  - IP-CIDR,45.196.20.22/32
