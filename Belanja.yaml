@@ -15,7 +15,7 @@ payload:
 
   # === SEA / GARENA CDN (CONTENT ONLY) ===
   - DOMAIN-SUFFIX,content.garena.com
-  - DOMAIN-SUFFIX,cdn.garena.com
+  - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
   - DOMAIN-SUFFIX,media.garena.com
 
   # === PAYMENT ===
