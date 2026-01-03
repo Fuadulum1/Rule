@@ -1,14 +1,6 @@
 payload:
-  # === SHOPEE CORE ===
-  - DOMAIN-SUFFIX,shopee.co.id
-  - DOMAIN-SUFFIX,shopee.com
-  - DOMAIN-SUFFIX,shopee.sg
-  - DOMAIN-SUFFIX,shopee.io
-  - DOMAIN-SUFFIX,shopeemobile.com
-  - DOMAIN-SUFFIX,shp.ee
-
-  # === API (DYNAMIC & GLOBAL) ===
-  - DOMAIN-KEYWORD,api.shopee
+  # === SHOPEE ALL DOMAINS (CORE + SUBDOMAINS) ===
+  - DOMAIN-KEYWORD,shopee
 
   # === IMAGE & LIVE CDN (WAJIB) ===
   - DOMAIN-SUFFIX,susercontent.com
