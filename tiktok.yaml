@@ -36,3 +36,6 @@ payload:
   - DOMAIN-SUFFIX,isnssdk.com
   - DOMAIN-SUFFIX,musemuse.cn
   - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
+
+  # IP-Range Tiktok
+  - IP-CIDR,43.152.166.232/32
