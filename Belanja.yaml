@@ -8,6 +8,7 @@ payload:
   # === SEA / GARENA CDN (CONTENT ONLY) ===
   - DOMAIN-SUFFIX,content.garena.com
   - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,ws-sgp-pull.snackvideo.in
 
   # === PAYMENT ===
   - DOMAIN-KEYWORD,airpay
