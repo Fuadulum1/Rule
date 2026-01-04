@@ -15,9 +15,7 @@ payload:
   - DOMAIN-KEYWORD,shopeepay
 
   # === IP-Range Shopee ===
-  - IP-CIDR,45.196.20.16/32
-  - IP-CIDR,45.196.20.20/32
-  - IP-CIDR,45.196.20.22/32
+  - IP-CIDR,45.0.0.0/8
   - IP-CIDR,47.241.30.51/32
   - IP-CIDR,138.0.0.0/8
   - IP-CIDR,202.0.0.0/8
